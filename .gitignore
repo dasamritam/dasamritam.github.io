@@ -1,2 +1,3 @@
 _site/
-
+ignore/
+.DS_Store
