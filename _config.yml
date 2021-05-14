@@ -83,7 +83,7 @@ author:
   name             : *name
   avatar           : "profile.jpg"
   bio              : *description
-  location         : "The United Kingdom"
+  location         : #"The United Kingdom"
   employer         : "University of Cambridge"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dZ1NkwoAAAAJ&hl=en"
