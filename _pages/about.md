@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Amritam, a research associate at the University of Cambridge. Here, I am affiliated with the prestigeous [Control Group](http://www-control.eng.cam.ac.uk/Main/WebHome) at the Department of Engineering. I also hold a college research associateship (CRA) position at the [Sydney Sussex College](https://www.sid.cam.ac.uk/people/dr-amritam-das). In this website, I share my research works, teaching materials and occasional blogposts about some engineering and maths related topics that potentially have public interests. 
+I'm Amritam, a research associate at the University of Cambridge. Here, I am affiliated with the prestigeous [Control Group](http://www-control.eng.cam.ac.uk/Main/WebHome) at the Department of Engineering. I also hold a college research associateship (CRA) position at the [Sidney Sussex College](https://www.sid.cam.ac.uk/people/dr-amritam-das). In this website, I share my research works, teaching materials and occasional blogposts about some engineering and maths related topics that potentially have public interests. 
 
 My Academic Background
 ======
